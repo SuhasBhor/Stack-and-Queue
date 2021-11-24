@@ -7,5 +7,10 @@ public class TestStack {
 		stack.insert(30);
 		stack.insert(56);
 		stack.display();
+		stack.peak();
+		stack.delete();
+		stack.delete();
+		stack.delete();
+		stack.delete();
 	}
 }
